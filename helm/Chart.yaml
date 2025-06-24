@@ -1,0 +1,4 @@
+apiVersion: v2
+name: abhinay-ms
+description: A Helm chart for deploying abhinay-ms
+version: 0.1.0

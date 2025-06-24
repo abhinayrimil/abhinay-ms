@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: abhinay-ms
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: abhinay-ms
+  template:
+    metadata:
+      labels:
+        app: abhinay-ms
+    spec:
+      containers:
+        - name: abhinay-ms
+          image: your-docker-image
+          ports:
+            - containerPort: 8080
