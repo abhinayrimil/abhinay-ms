@@ -5,6 +5,9 @@ metadata:
   description: Team owning microservices and platform infra
 spec:
   type: team
+  profile:
+    displayName: Platform Team
+  children: []         # Optional: list of child groups
   members:
-    - abhinay
+    - abhinay           # References the user entity's metadata.name
 

@@ -1,10 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: raman-org-entities
-  description: User and Group for the platform org
+  name: org-entities
+  description: Platform team users and groups
 spec:
   type: url
   targets:
-    - https://raw.githubusercontent.com/abhinayrimil/abhinay-ms/main/backstage-entities/group-platform-team.yaml
-    - https://raw.githubusercontent.com/abhinayrimil/abhinay-ms/main/backstage-entities/user-abhinay.yaml
+    - https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/backstage-entities/group-platform-team.yaml
+    - https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/backstage-entities/user-abhinay.yaml
+

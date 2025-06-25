@@ -5,7 +5,7 @@ metadata:
 spec:
   profile:
     displayName: Abhinay
-    email: abhinayrrimil@gmail.com
+    email: abhinay@example.com
   memberOf:
     - platform-team
 
