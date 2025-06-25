@@ -4,6 +4,7 @@ metadata:
   name: abhinay-ms
   description: A Flask microservice with CI/CD and observability
   annotations:
+    backstage.io/techdocs-ref: dir:.
     github.com/project-slug: abhinayrimil/abhinay-ms
     backstage.io/techdocs-ref: dir:.
     prometheus.io/scrape: "true"
