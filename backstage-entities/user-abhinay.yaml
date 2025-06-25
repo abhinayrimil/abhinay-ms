@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: abhinay
+spec:
+  profile:
+    displayName: Abhinay
+    email: abhinayrrimil@gmail.com
+  memberOf:
+    - platform-team
+
