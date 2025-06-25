@@ -6,6 +6,6 @@ metadata:
 spec:
   type: url
   targets:
-    - https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/backstage-entities/group-platform-team.yaml
-    - https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/backstage-entities/user-abhinay.yaml
+    - https://raw.githubusercontent.com/abhinayrimil/abhinay-ms/main/backstage-entities/group-platform-team.yaml
+    - https://raw.githubusercontent.com/abhinayrimil/abhinay-ms/main/backstage-entities/user-abhinay.yaml
 
